@@ -15,4 +15,4 @@
    - Banana 
 
    
-   ![Fruit](./images/kk.jpg)
+   # Table with alignment
