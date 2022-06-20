@@ -1,7 +1,7 @@
 # Assignment 0: Markdown
 ## You have to write markdown
 
-## Fruits Item :
+### Fruits Item :
 
 1. Mango
 2. Apple
