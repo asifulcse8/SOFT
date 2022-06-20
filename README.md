@@ -13,3 +13,5 @@
   - Mango
     - Apple
    - Banana 
+
+   ![FRUIT](./images/OIP (2).jpg)
